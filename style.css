@@ -1,0 +1,83 @@
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+	font-family: verdana;
+}
+body {
+	box-sizing: inherit;
+	padding: 0;
+	margin: 0;
+}
+
+#main {
+	background-color: #eeebdd;
+	max-width: 95%;
+	margin: 10px auto;
+	border-radius: 0.8rem;
+}
+
+.header {
+	text-align: center;
+}
+
+#title {
+	font-size: 3rem;
+	padding: 4rem 0 0.5rem 0;
+}
+
+.sub-title {
+	font-size: 1.5rem;
+	font-weight: normal;
+}
+
+#img-div {
+	width: 90%;
+	margin: 0 auto;
+	padding: 2rem;
+	background-color: white;
+}
+#image {
+	display: block;
+	max-width: 70%;
+	margin: 0 auto;
+}
+
+#img-caption {
+	font-size: 1.2rem;
+	margin: 1rem 0 0 0;
+}
+
+#tribute-info {
+	max-width: 40%;
+	margin: 5rem auto 3rem auto;
+}
+
+.tribute-timeline {
+	text-align: center;
+	font-size: 2rem;
+	margin: 0 0 4rem 0;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.timeline-item {
+	margin: 1rem 0;
+	font-size: 1.5rem;
+	line-height: 2rem;
+}
+
+.quote-container {
+	font-style: italic;
+	font-size: 1.5rem;
+	max-width: 40%;
+	margin: 0 auto;
+	line-height: 1.5rem;
+}
+
+.link {
+	text-align: center;
+	font-size: 1.2rem;
+	padding: 5rem 0;
+}
